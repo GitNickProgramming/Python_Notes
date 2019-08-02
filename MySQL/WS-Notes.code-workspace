@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\ngagl\\Projects\\Python Notes"
+		},
+		{
+			"name": "Python_Notes",
+			"path": "C:\\Users\\ngagl\\Projects\\Python Notes\\Python_Notes"
+		}
+	],
+	"settings": {
+		"python.venvPath": "C:\\Users\\ngagl\\Dev\\pynotesenv"
+	}
+}
